@@ -101,6 +101,12 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/Silvianaangellica">
+    <img src="https://img.shields.io/badge/Play_Game-Click_Here!-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Play Game" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
