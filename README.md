@@ -16,9 +16,11 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 
 ### 🛠️ Skills:
 
+<div align="center">
+
 #### 👨‍💻 Programming Languages:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -26,7 +28,7 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 
 #### 💻 Front-End Development:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -35,7 +37,7 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 
 #### 🤖 AI/ML:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
@@ -44,8 +46,6 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 </p>
 
 #### 🗄️ Databases:
-
-<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
