@@ -94,6 +94,15 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Silvianaangellica&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
+</p>
 
 ---
 
@@ -102,5 +111,5 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 </p>
 
 <p align="center">
-  Thank you for coming to view my profile
+  **Thank you for coming to view my profile, hehe**
 </p>
