@@ -66,10 +66,10 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvianaangellica&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Silvianaangellica&theme=dark&hide_border=true)
 
 ### 📚 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvianaangellica&layout=compact&theme=radical)
 
 ---
