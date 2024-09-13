@@ -10,7 +10,7 @@
 ### 🚀 About Me:
 Hi, I'm Silviana Anggellica. My usual nickname is Angel. I am a final year student in the Informatics study program, at Singaperbangsa University in Karawang.
 
-I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IBM Academy: AAI. My skills are Front End can use react, I can design UI/UX according to user preferences, I can also use Google Collab or Jupyter Notebook as tools for Python. Python libraries that I often use are Numpy, Pandas, and many more for data-related lecture assignments.
+I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IBM Academy: AAI. My skills are Front End can use react, I can design UI/UX according to user preferences, I can also use Google Collab or Jupyter Notebook (optional) as tools for Python. Python libraries that I often use are Numpy, Pandas, and many more for data-related lecture assignments.
 
 ---
 
@@ -91,7 +91,6 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 
 ---
 
-### 🎮 Snake Game:
 <p align="center">
-  <img src="https://github.com/Silvianaangellica/Silvianaangellica/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="./cat.gif" alt="cat and butterfly" />
 </p>
