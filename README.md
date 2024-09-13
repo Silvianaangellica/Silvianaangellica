@@ -5,16 +5,22 @@
 
 ---
 
-## Hi there! 👋 I'm Silviana Anggellica
+## <p align="center">Hi there! 👋 I'm Silviana Anggellica</p>
 
-### 🚀 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+My+GitHub+Profile!;I+Love+Coding+%26+AI!;Feel+Free+to+Explore!" alt="Typing SVG" />
+</p>
+
+---
+
+### <p align="center">🚀 About Me</p>
 Hi, I'm Silviana Anggellica. My usual nickname is Angel. I am a final year student in the Informatics study program, at Singaperbangsa University in Karawang.
 
 I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IBM Academy: AAI. My skills are Front End can use react, I can design UI/UX according to user preferences, I can also use Google Collab or Jupyter Notebook (optional) as tools for Python. Python libraries that I often use are Numpy, Pandas, and many more for data-related lecture assignments.
 
 ---
 
-### 🛠️ Skills:
+### <p align="center">🛠️ Skills</p>
 
 <div align="center">
 
@@ -76,24 +82,31 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 
 ---
 
-### 📊 GitHub Stats:
+### <p align="center">📊 GitHub Stats</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Silvianaangellica&show_icons=true&theme=radical" alt="Silviana Anggellica's GitHub Stats" />
 </p>
 
 
-### 📚 Top Languages:
+### <p align="center">📚 Top Languages</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvianaangellica&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
-### 📅 Weekly Coding Activity:
+### <p align="center">📅 Weekly Coding Activity</p>
 <!-- You can use GitHub Profile Trophy or GitHub Readme Streak Stats to show coding activity -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats" alt="GitHub Streak Stats" />
 </p>
 
+
+---
+
+### <p align="center">🎮 Snake Game</p>
+<p align="center">
+  <img src="https://github.com/Silvianaangellica/Silvianaangellica/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
 ---
 
