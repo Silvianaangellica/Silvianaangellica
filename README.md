@@ -5,7 +5,7 @@
 
 ---
 
-## Hi there! 👋 I'm Silviana Anggellica, 
+## Hi there! 👋 I'm Silviana Anggellica
 
 ### 🚀 About Me:
 Hi, I'm Silviana Anggellica. My usual nickname is Angel. I am a final year student in the Informatics study program, at Singaperbangsa University in Karawang.
@@ -77,16 +77,22 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvianaangellica&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Silvianaangellica&show_icons=true&theme=radical" alt="Silviana Anggellica's GitHub Stats" />
+</p>
 
 
 ### 📚 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvianaangellica&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvianaangellica&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 ### 📅 Weekly Coding Activity:
 <!-- You can use GitHub Profile Trophy or GitHub Readme Streak Stats to show coding activity -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats" alt="GitHub Streak Stats" />
+</p>
 
 
 ---
