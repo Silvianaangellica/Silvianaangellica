@@ -8,7 +8,7 @@
 ## <p align="center">Hi there! 👋 I'm Silviana Anggellica</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=181717&width=435&lines=Welcome+to+My+GitHub+Profile!;Contains+Only+Some+Information+%26+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=181717&width=435&lines=Welcome+to+My+GitHub+Profile!;Contains+Information+%26+Codes!" alt="Typing SVG" />
 </p>
 
 ---
