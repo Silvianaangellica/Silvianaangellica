@@ -5,9 +5,7 @@
 
 ---
 
-# Hi there! 👋 I'm Silviana Anggellica
-
-# Call me, Angel
+## Hi there! 👋 I'm Silviana Anggellica, 
 
 ### 🚀 About Me:
 Hi, I'm Silviana Anggellica. My usual nickname is Angel. I am a final year student in the Informatics study program, at Singaperbangsa University in Karawang.
@@ -19,7 +17,7 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 ### 🛠️ Skills:
 
 #### 👨‍💻 Programming Languages:
----
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -27,7 +25,7 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 </p>
 
 #### 💻 Front-End Development:
----
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -36,7 +34,7 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 </p>
 
 #### 🤖 AI/ML:
----
+
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
@@ -46,22 +44,24 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 </p>
 
 #### 🗄️ Databases:
----
-<p align="center">
+
+<div align="center">
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 #### 🛠️ Tools:
----
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
 #### 🌐 Social:
----
-<p align="center">
+
+<p>
   <a href="https://github.com/Silvianaangellica">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -70,18 +70,21 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
   </a>
 </p>
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvianaangellica&show_icons=true&theme=radical)
 
+
 ### 📚 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvianaangellica&layout=compact&theme=radical)
 
----
 
 ### 📅 Weekly Coding Activity:
 <!-- You can use GitHub Profile Trophy or GitHub Readme Streak Stats to show coding activity -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats)
+
 
 ---
