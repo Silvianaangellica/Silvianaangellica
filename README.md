@@ -100,3 +100,7 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 <p align="center">
   <img src="./cat.gif" alt="cat and butterfly" />
 </p>
+
+<p align="center">
+  Thank you for coming to view my profile
+</p>
