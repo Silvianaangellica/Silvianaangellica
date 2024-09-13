@@ -73,3 +73,20 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvianaangellica&layout=compact&theme=radical)
 
 ---
+
+
+### 📅 Weekly Coding Activity:
+<!-- You can use GitHub Profile Trophy or GitHub Readme Streak Stats to show coding activity -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 📊 Language Usage in Repositories:
+<!-- Bar chart showing the most used languages in your repos -->
+[![Language Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Silvianaangellica)](https://wakatime.com/)
+
+---
+
+### 🏆 GitHub Trophies:
+<!-- Show GitHub Trophy badges -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Silvianaangellica&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
