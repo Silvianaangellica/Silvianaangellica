@@ -57,6 +57,8 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Enterprise_Architect-184877?style=for-the-badge&logo=sparx&logoColor=white" alt="Enterprise Architect" />
+</p>
 </p>
 
 #### 🌐 Social:
@@ -88,3 +90,8 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
 
 
 ---
+
+### 🎮 Snake Game:
+<p align="center">
+  <img src="https://github.com/Silvianaangellica/Silvianaangellica/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
