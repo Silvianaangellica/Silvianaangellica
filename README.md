@@ -8,7 +8,7 @@
 ## <p align="center">Hi there! 👋 I'm Silviana Anggellica</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+My+GitHub+Profile!;I+Love+Coding+%26+AI!;Feel+Free+to+Explore!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=181717&width=435&lines=Welcome+to+My+GitHub+Profile!;Contains+Only+Some+Information+%26+Code!" alt="Typing SVG" />
 </p>
 
 ---
@@ -100,13 +100,6 @@ I am currently an AI Engineer at Infinite Learning Indonesia, specifically at IB
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silvianaangellica&theme=radical)](https://git.io/streak-stats" alt="GitHub Streak Stats" />
 </p>
 
-
----
-
-### <p align="center">🎮 Snake Game</p>
-<p align="center">
-  <img src="https://github.com/Silvianaangellica/Silvianaangellica/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
 
 ---
 
